@@ -1,4 +1,4 @@
-public class caminhao extends veiculo {
+public class Caminhao extends Veiculo {
     private float cargaMaxima;
 
     public float getCargaMaxima() {

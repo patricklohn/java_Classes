@@ -1,4 +1,4 @@
-public class carropasseio extends veiculo {
+public class CarroPasseio extends Veiculo {
 
     private String cor;
 

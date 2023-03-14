@@ -1,4 +1,4 @@
-public class veiculo {
+public class Veiculo {
 
     private int peso;
 
